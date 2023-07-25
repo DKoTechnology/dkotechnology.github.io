@@ -1,0 +1,1 @@
+doskey dpm=python "%~dp0/dpm_module/dpm.py" $1 $2 $3 $4
